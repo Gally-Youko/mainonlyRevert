@@ -5,7 +5,7 @@ mainonlyRevert is a JavaScript bookmarklet specially designed for web browsers. 
    - When the user hovers the mouse over any element on the page, that element will be highlighted.
    - Clicking on any element hides other elements on the page, displaying only the selected element and its child elements.
    - Use the mouse wheel to switch between the selected element's parent element and the first child element.
-   - Press the `Escape` key to cancel the highlight, return the page to normal state, and scroll back to the previous position.
+   - Press the `Escape` key to cancel the highlight, return the page to normal state, while remaining at the previous scroll position.
 
 # How to use
 1. Copy the following code:
@@ -38,7 +38,7 @@ mainonlyRevert 是一个专门设计用于网页浏览器的 JavaScript 书签�
    - 当用户将鼠标悬停在页面上的任何元素上时，该元素会被突出显示。
    - 点击任意元素会隐藏页面上的其他元素，仅显示选中的元素及其子元素。
    - 使用鼠标滚轮可以在选中的元素的父元素和第一个子元素之间切换。
-   - 按下 `Escape` 键取消突出显示，恢复页面到正常状态，并将滚动位置回到之前的位置。
+   - 按下 `Escape` 键取消突出显示，恢复页面到正常状态，并将保持原始位置。
 
 # 使用方法
 1. 复制以下代码：
