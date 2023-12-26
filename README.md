@@ -26,8 +26,6 @@ javascript:(function(){var e=document.body,currentScrollPosition,n=document.head
 
 # Acknowledgments
 mainonlyRevert is derived from jerrylususu's mainonly, modified by ChatGPT-4.
-
-If you need the feature that restores the page to its original state after canceling the highlight without returning to the previous scroll position, please use mainonly:
 ```
 https://github.com/jerrylususu/mainonly
 ```
